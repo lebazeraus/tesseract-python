@@ -1,0 +1,12 @@
+{
+  "name": "tsseract-python",
+  "version": "1.0.0",
+  "description": "Reconocimiento óptico de caracteres",
+  "main": "main.py",
+  "author": "Abel Suárez",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "start": "python main.py"
+  }
+}
